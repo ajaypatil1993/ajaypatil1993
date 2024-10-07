@@ -28,13 +28,14 @@ I am a passionate **Junior Front-End Developer** specializing in:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Tech Gif"/>
 </div>
 
+
 ## 🚀 About Me
-- 🔭 Currently working as a **freelancer** on exciting front-end projects.
-- 🌱 Learning **Angular, Express,** and **Node.js** to expand my full-stack capabilities.
-- 👯 Looking to collaborate on **open-source projects** or interesting **front-end challenges**.
-- 💬 Feel free to ask me about **front-end development**, **React**, or **CSS frameworks**.
-- 📫 How to reach me: [Email](mailto:aj41093@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ajaypatil1993).
-- ⚡ Fun fact: I love exploring new tech trends and finding ways to optimize user interfaces!
+- 🔭 Currently working as a **React.js Developer** at Vetron IT Services.
+- 🌱 Expanding my full-stack skills by learning **Angular**, **Express**, and **Node.js**.
+- 👯 Open to collaborating on **open-source projects** or tackling interesting **front-end challenges**.
+- 💬 Feel free to reach out if you have questions about **front-end development**, **React**, or **CSS frameworks**.
+- 📫 You can contact me at [Email](mailto:aj41093@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ajaypatil1993).
+- ⚡ Fun fact: I enjoy exploring new tech trends and discovering ways to enhance user interfaces!
 
 ---
 
