@@ -11,6 +11,9 @@
     <a href="https://x.com/ajay_patil1993">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <a href="https://github.com/ajaypatil1993?tab=repositories">
+      <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos Badge"/>
+    </a>
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=ajaypatil1993&style=flat-square&color=blue" alt="Profile Views"/>
@@ -18,7 +21,7 @@
 
 # Hi there 👋 I'm Ajay Patil
 
-I am a passionate **Junior Front-End Developer** specializing in:
+I’m a passionate **Junior Front-End Developer**, focused on building seamless and interactive web experiences with:
 
 **React.js | Next.js | Redux | React Native | Vue.js | TypeScript | JavaScript | Tailwind CSS | Shadcn | Bootstrap | HTML5 | CSS3 | Git**
 
@@ -31,11 +34,11 @@ I am a passionate **Junior Front-End Developer** specializing in:
 
 ## 🚀 About Me
 - 🔭 Currently working as a **React.js Developer** at Vetron IT Services.
-- 🌱 Expanding my full-stack skills by learning **Angular**, **Express**, and **Node.js**.
+- 🌱 Expanding my front-end skills into full-stack by learning **Angular**, **Express**, and **Node.js**.
 - 👯 Open to collaborating on **open-source projects** or tackling interesting **front-end challenges**.
-- 💬 Feel free to reach out if you have questions about **front-end development**, **React**, or **CSS frameworks**.
-- 📫 You can contact me at [Email](mailto:aj41093@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ajaypatil1993).
-- ⚡ Fun fact: I enjoy exploring new tech trends and discovering ways to enhance user interfaces!
+- 💬 Reach out if you have questions about **front-end development**, **React**, or **CSS frameworks**.
+- 📫 Contact me at [Email](mailto:aj41093@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ajaypatil1993).
+- ⚡ Fun fact: I love discovering ways to enhance user interfaces and exploring new tech trends!
 
 ---
 
@@ -57,15 +60,13 @@ I am a passionate **Junior Front-End Developer** specializing in:
    <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React Native"/>
 </p>
 
-### Libraries:
+### UI Libraries & Frameworks:
 <p>
    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap"/>
    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS"/>
    <img src="https://img.shields.io/badge/Material--UI-0081CB?logo=mui&logoColor=white&style=for-the-badge" alt="Material-UI"/>
-   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" alt="Redux"/>
-   <img src="https://img.shields.io/badge/Shadcn-000000?logo=shadcn&logoColor=white&style=for-the-badge" alt="Shadcn"/>
    <img src="https://img.shields.io/badge/Chakra--UI-319795?logo=chakraui&logoColor=white&style=for-the-badge" alt="Chakra UI"/>
-   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white&style=for-the-badge" alt="Motion Framer"/>
+   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white&style=for-the-badge" alt="Framer Motion"/>
 </p>
 
 ### Tools:
@@ -88,10 +89,10 @@ I am a passionate **Junior Front-End Developer** specializing in:
 ---
 
 ## :fire: My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ajaypatil1993&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ajaypatil1993&theme=dark&background=000000)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaypatil1993&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 🙏 Thanks for Visiting My GitHub Profile!
-Feel free to explore my repositories and connect with me. If you have any questions or just want to chat, don’t hesitate to reach out!
+## 🙏 Thank You for Stopping By!
+Feel free to explore my repositories and connect with me. If you have any questions or want to chat, don’t hesitate to reach out—I’d love to connect and collaborate!
