@@ -20,10 +20,7 @@
 </div>
 
 # Hi there 👋 I'm Ajay Patil
-
-I’m a passionate **Junior Front-End Developer**, focused on building seamless and interactive web experiences with:
-
-**React.js | Next.js | Redux | React Native | Vue.js | TypeScript | JavaScript | Tailwind CSS | Shadcn | Bootstrap | HTML5 | CSS3 | Git**
+## Crafting Seamless Web Experiences | React.js Enthusiast | Open to Opportunities
 
 ---
 
@@ -31,14 +28,24 @@ I’m a passionate **Junior Front-End Developer**, focused on building seamless 
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Tech Gif"/>
 </div>
 
-
 ## 🚀 About Me
 - 🔭 Currently working as a **React.js Developer** at Vetron IT Services.
 - 🌱 Expanding my front-end skills into full-stack by learning **Angular**, **Express**, and **Node.js**.
 - 👯 Open to collaborating on **open-source projects** or tackling interesting **front-end challenges**.
-- 💬 Reach out if you have questions about **front-end development**, **React**, or **CSS frameworks**.
 - 📫 Contact me at [Email](mailto:aj41093@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ajaypatil1993).
 - ⚡ Fun fact: I love discovering ways to enhance user interfaces and exploring new tech trends!
+
+---
+
+## 🛠️ Featured Projects
+### **[Pixora](https://pixora.netlify.app/)**
+An AI-powered video editing SaaS platform with a user-friendly interface. Built with React.js, Tailwind CSS, and Firebase.
+
+### **[VintageVogue](https://vintagevogue.com/)**
+An e-commerce platform for vintage fashion, featuring real-time updates, product carousels, and dark mode. Built with React.js and Redux.
+
+### **[Modern UI/UX Website](https://modernuiuxproject.netlify.app/)**
+A sleek, modern website showcasing elegant UI/UX principles with interactive animations, responsive design, and dark/light mode functionality. Built with React.js, Tailwind CSS, and Framer Motion.
 
 ---
 
@@ -69,22 +76,11 @@ I’m a passionate **Junior Front-End Developer**, focused on building seamless 
    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white&style=for-the-badge" alt="Framer Motion"/>
 </p>
 
-### Tools:
-<p>
-   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VS Code"/>
-   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
-   <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge" alt="GitLab"/>
-   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma"/>
-   <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge" alt="Webpack"/>
-   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" alt="Vite"/>
-</p>
+---
 
-### Database:
-<p>
-   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase"/>
-   <img src="https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white&style=for-the-badge" alt="Strapi"/>
-</p>
-
+## 🏆 Certifications
+- **Meta Front-End Developer Professional Certificate** – Coursera (July 2024)  
+  *Gained advanced knowledge in React.js, responsive design, and front-end best practices.*
 
 ---
 
@@ -95,4 +91,4 @@ I’m a passionate **Junior Front-End Developer**, focused on building seamless 
 ---
 
 ## 🙏 Thank You for Stopping By!
-Feel free to explore my repositories and connect with me. If you have any questions or want to chat, don’t hesitate to reach out—I’d love to connect and collaborate!
+Feel free to explore my repositories and connect with me. Let’s collaborate and build amazing projects together! 🚀  
